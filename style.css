@@ -1,0 +1,33 @@
+.submitter{
+  width:80px;
+}
+
+
+
+.inputs{
+  border:1px solid black;
+  color:blue;
+}
+label{
+  color:yellow
+}
+.dataContain{
+  margin-top: 50px;
+}
+
+.crossed-off{
+text-decoration: line-through;
+
+}
+
+.edit{
+
+  margin-top: 50px;
+}
+.edit .collapse{
+  visibility:hidden;
+}
+
+.editing-row-currently{
+  background-color:  orange;
+}
