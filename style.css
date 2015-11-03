@@ -1,9 +1,20 @@
 .submitter{
   width:80px;
 }
+td, th{
+  text-align: center;
+}
+
+body{text-align: center;}
 
 
-
+th{
+  color:teal;
+}
+ input{
+   display:inline-block;
+   text-align: center;
+ }
 .inputs{
   border:1px solid black;
   color:blue;
@@ -11,6 +22,7 @@
 label{
   color:yellow
 }
+
 .dataContain{
   margin-top: 50px;
 }
@@ -21,9 +33,9 @@ text-decoration: line-through;
 }
 
 .edit{
-
   margin-top: 50px;
 }
+
 .edit .collapse{
   visibility:hidden;
 }
